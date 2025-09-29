@@ -1,0 +1,9 @@
+D:\NAM4\PTMT\Project\1150080151_LAITHANHNHAN_LAB2\ApDung1\obj\Debug\ApDung1.csproj.AssemblyReference.cache
+D:\NAM4\PTMT\Project\1150080151_LAITHANHNHAN_LAB2\ApDung1\obj\Debug\ApDung1.Properties.Resources.resources
+D:\NAM4\PTMT\Project\1150080151_LAITHANHNHAN_LAB2\ApDung1\obj\Debug\ApDung1.csproj.GenerateResource.cache
+D:\NAM4\PTMT\Project\1150080151_LAITHANHNHAN_LAB2\ApDung1\obj\Debug\ApDung1.csproj.CoreCompileInputs.cache
+D:\NAM4\PTMT\Project\1150080151_LAITHANHNHAN_LAB2\ApDung1\bin\Debug\ApDung1.exe.config
+D:\NAM4\PTMT\Project\1150080151_LAITHANHNHAN_LAB2\ApDung1\bin\Debug\ApDung1.exe
+D:\NAM4\PTMT\Project\1150080151_LAITHANHNHAN_LAB2\ApDung1\bin\Debug\ApDung1.pdb
+D:\NAM4\PTMT\Project\1150080151_LAITHANHNHAN_LAB2\ApDung1\obj\Debug\ApDung1.exe
+D:\NAM4\PTMT\Project\1150080151_LAITHANHNHAN_LAB2\ApDung1\obj\Debug\ApDung1.pdb
