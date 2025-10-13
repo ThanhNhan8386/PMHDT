@@ -1,0 +1,12 @@
+D:\NAM4\PTMT\LAB5\TH_LAB5\TH_LAB5\bin\Debug\Database1.mdf
+D:\NAM4\PTMT\LAB5\TH_LAB5\TH_LAB5\bin\Debug\Database1_log.ldf
+D:\NAM4\PTMT\LAB5\TH_LAB5\TH_LAB5\bin\Debug\TH_LAB5.exe.config
+D:\NAM4\PTMT\LAB5\TH_LAB5\TH_LAB5\bin\Debug\TH_LAB5.exe
+D:\NAM4\PTMT\LAB5\TH_LAB5\TH_LAB5\bin\Debug\TH_LAB5.pdb
+D:\NAM4\PTMT\LAB5\TH_LAB5\TH_LAB5\obj\Debug\TH_LAB5.csproj.AssemblyReference.cache
+D:\NAM4\PTMT\LAB5\TH_LAB5\TH_LAB5\obj\Debug\TH_LAB5.Properties.Resources.resources
+D:\NAM4\PTMT\LAB5\TH_LAB5\TH_LAB5\obj\Debug\TH_LAB5.csproj.GenerateResource.cache
+D:\NAM4\PTMT\LAB5\TH_LAB5\TH_LAB5\obj\Debug\TH_LAB5.csproj.CoreCompileInputs.cache
+D:\NAM4\PTMT\LAB5\TH_LAB5\TH_LAB5\obj\Debug\TH_LAB5.exe
+D:\NAM4\PTMT\LAB5\TH_LAB5\TH_LAB5\obj\Debug\TH_LAB5.pdb
+D:\NAM4\PTMT\LAB5\TH_LAB5\TH_LAB5\obj\Debug\TH_LAB5.exe.config
