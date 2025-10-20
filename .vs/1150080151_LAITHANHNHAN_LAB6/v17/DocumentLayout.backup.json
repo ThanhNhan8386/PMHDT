@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NAM4\\PTMT\\1150080151_LAITHANHNHAN_LAB6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E2D0BA2-ED6E-4365-98BF-9CB965A7DF96}|1150080151_LAITHANHNHAN_LAB6\\1150080151_LAITHANHNHAN_LAB6.csproj|d:\\nam4\\ptmt\\1150080151_laithanhnhan_lab6\\1150080151_laithanhnhan_lab6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E2D0BA2-ED6E-4365-98BF-9CB965A7DF96}|1150080151_LAITHANHNHAN_LAB6\\1150080151_LAITHANHNHAN_LAB6.csproj|solutionrelative:1150080151_laithanhnhan_lab6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\NAM4\\PTMT\\1150080151_LAITHANHNHAN_LAB6\\1150080151_LAITHANHNHAN_LAB6\\Form1.cs",
+              "RelativeDocumentMoniker": "1150080151_LAITHANHNHAN_LAB6\\Form1.cs",
+              "ToolTip": "D:\\NAM4\\PTMT\\1150080151_LAITHANHNHAN_LAB6\\1150080151_LAITHANHNHAN_LAB6\\Form1.cs [Design]",
+              "RelativeToolTip": "1150080151_LAITHANHNHAN_LAB6\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T06:27:15.665Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
